@@ -1,7 +1,7 @@
 {
     "versions": [
       {
-        "version": "1.0.2",
+        "version": "1.0.1",
         "url": "https://prakriti-bh.github.io/esp32-ota-firmware/firmware/v1.0.1.bin",
         "release_date": "2023-08-15",
         "changelog": "Fixed WiFi connection bug"
